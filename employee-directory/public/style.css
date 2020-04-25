@@ -1,5 +1,15 @@
 .jumbotron {
     text-align: center;
     background-color: lightblue;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: sans-serif;
+    border-bottom: black solid;
+}
+input {
+    margin: 5px;
+}
+td {
+    text-align: center;
+}
+th {
+    text-align: center;
 }
